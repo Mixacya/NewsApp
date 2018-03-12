@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="sort_relevancy">Relevancy</string>
+    <string name="sort_popularity">Popularity</string>
+    <string name="sort_publishedAt">Published At</string>
+    <string name="sort_none">No sorting</string>
+
+    <string name="all">All</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+
+    <string name="no_source_selected">No source selected. Click to choose</string>
+    <string name="no_source_to_choose">No source to choose</string>
+    <string name="category">Category</string>
+    <string name="source">Source</string>
+    <string name="language">Language</string>
+    <string name="favourite">Favourite</string>
+
+</resources>
